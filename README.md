@@ -1,2 +1,2 @@
 # Sentimental Analysis
-This repo consists of a Model for Sentimental Analysisw for Naan Mudhalvan Course.
+This repo consists of a Model for Sentimental Analysis for Naan Mudhalvan Course.
